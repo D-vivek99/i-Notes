@@ -1,0 +1,19 @@
+h2{
+    font-family: 'Archivo';
+    font-size: 38px;
+    font-weight: 800;
+}
+label{
+    font-size: 13px;
+    color: #7a0060;
+}
+
+.update-btn{
+    color: white;
+    background-color: rgb(210, 93, 231);
+}
+
+.update-btn:hover{
+    color: white;
+    background-color: rgb(193, 63, 216);
+}

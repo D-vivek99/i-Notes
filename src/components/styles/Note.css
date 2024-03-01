@@ -1,0 +1,13 @@
+h5{
+    font-family: 'Rubik';
+    font-size: 22px;
+    font-weight: 410;
+}
+
+#desc{
+    font-family: 'Rubik';
+}
+
+.card-body{
+    height: 200px;
+}
